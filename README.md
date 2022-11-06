@@ -11,4 +11,4 @@ PySpark was used to perform the ETL process, extract the dataset, transform the 
 
 
 ##Results
-
+![results](https://github.com/lina2285/Amazon_Vine_Analysis/blob/main/Results.png)
